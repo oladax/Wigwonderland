@@ -8,9 +8,7 @@ function Navbar() {
   return (
     <div className="navbar-main">
 <nav className="navbar">
-<div className="logo">
-  <h1>Wig Wonderland</h1>
-</div>
+<div className="logo"> <h1>Wig Wonderland</h1></div>
 
     <div className="links">
     <ul>
@@ -26,6 +24,8 @@ function Navbar() {
       </div>
 
     </nav>
+
+    
     </div>
     
   );

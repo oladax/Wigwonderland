@@ -5,11 +5,14 @@ import Home from './Home/Home'
 
 function App() {
   return (
-    <div className='main'>
-      
-      <Advert/>
+    <div    
+    className='overall-container'>  
+     <Advert/>
+
      <Navbar/>
+
      <Home/>
+ d
     </div>
   )
 }
