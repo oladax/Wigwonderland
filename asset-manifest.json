@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Humanhair/static/css/main.779a786a.css",
-    "main.js": "/Humanhair/static/js/main.283df64e.js",
-    "static/media/stockimg3-removebg-preview.png": "/Humanhair/static/media/stockimg3-removebg-preview.1d967da1052a465716ff.png",
-    "index.html": "/Humanhair/index.html",
-    "main.779a786a.css.map": "/Humanhair/static/css/main.779a786a.css.map",
-    "main.283df64e.js.map": "/Humanhair/static/js/main.283df64e.js.map"
+    "main.css": "/Wigwonderland/static/css/main.779a786a.css",
+    "main.js": "/Wigwonderland/static/js/main.a6f0eb0d.js",
+    "static/media/stockimg3-removebg-preview.png": "/Wigwonderland/static/media/stockimg3-removebg-preview.1d967da1052a465716ff.png",
+    "index.html": "/Wigwonderland/index.html",
+    "main.779a786a.css.map": "/Wigwonderland/static/css/main.779a786a.css.map",
+    "main.a6f0eb0d.js.map": "/Wigwonderland/static/js/main.a6f0eb0d.js.map"
   },
   "entrypoints": [
     "static/css/main.779a786a.css",
-    "static/js/main.283df64e.js"
+    "static/js/main.a6f0eb0d.js"
   ]
 }
