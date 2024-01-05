@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Wigwonderland/static/css/main.779a786a.css",
-    "main.js": "/Wigwonderland/static/js/main.ffae83f8.js",
-    "static/media/stockimg3-removebg-preview.png": "/Wigwonderland/static/media/stockimg3-removebg-preview.1d967da1052a465716ff.png",
+    "main.css": "/Wigwonderland/static/css/main.780f627d.css",
+    "main.js": "/Wigwonderland/static/js/main.02356d6f.js",
+    "static/media/downloadedhair-removebg-preview.png": "/Wigwonderland/static/media/downloadedhair-removebg-preview.a4ad6a270ee8761e8f59.png",
     "index.html": "/Wigwonderland/index.html",
-    "main.779a786a.css.map": "/Wigwonderland/static/css/main.779a786a.css.map",
-    "main.ffae83f8.js.map": "/Wigwonderland/static/js/main.ffae83f8.js.map"
+    "main.780f627d.css.map": "/Wigwonderland/static/css/main.780f627d.css.map",
+    "main.02356d6f.js.map": "/Wigwonderland/static/js/main.02356d6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.779a786a.css",
-    "static/js/main.ffae83f8.js"
+    "static/css/main.780f627d.css",
+    "static/js/main.02356d6f.js"
   ]
 }

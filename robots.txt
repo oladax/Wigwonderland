@@ -1,17 +1,8 @@
-<div className="bestseller-container">
-          <div className='firstdiv'>
-            <div className="rotating-border">
-              <span>best <br /> seller</span>
-            </div>
-          </div>
-        </div>
-
-
-        position: absolute;
-  background-color: gold;
-  border-radius: 144px;
-  text-align: center;
-  padding-top: 32px;
-  padding-bottom: 32px;
-  padding-left: 35px;
-  padding-right: 35px;
+/* Reverse the order of grid items */
+      .Homesubcontainer .Home-sub .content-section {
+        order: 2; /* Display at the bottom */
+      }
+    
+      .Homesubcontainer .Home-sub .container {
+        order: 1; /* Display at the top */
+      }
