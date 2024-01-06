@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.css": "/Wigwonderland/static/css/main.780f627d.css",
-    "main.js": "/Wigwonderland/static/js/main.02356d6f.js",
-    "static/media/downloadedhair-removebg-preview.png": "/Wigwonderland/static/media/downloadedhair-removebg-preview.a4ad6a270ee8761e8f59.png",
+    "main.css": "/Wigwonderland/static/css/main.f7a4ad12.css",
+    "main.js": "/Wigwonderland/static/js/main.bd783794.js",
+    "static/media/thumbnails4.png": "/Wigwonderland/static/media/thumbnails4.58cde5f0b8b552505d80.png",
+    "static/media/thumbnails1.png": "/Wigwonderland/static/media/thumbnails1.479b29b530faf81887ab.png",
+    "static/media/thumbnails3.png": "/Wigwonderland/static/media/thumbnails3.222189f0a7d7416af42d.png",
+    "static/media/colorwig.png": "/Wigwonderland/static/media/colorwig.df513f2a5b79ef4d73d1.png",
+    "static/media/thumbnails2-removebg-preview.png": "/Wigwonderland/static/media/thumbnails2-removebg-preview.fcdc417b23b1f473c09b.png",
+    "static/media/istock2_result-removebg-preview - Copy.png": "/Wigwonderland/static/media/istock2_result-removebg-preview - Copy.f7af19c6f51d16d5bdf0.png",
+    "static/media/icon.png": "/Wigwonderland/static/media/icon.cfcacd1947be771cee7d.png",
+    "static/media/cart.png": "/Wigwonderland/static/media/cart.647bbb2e96bf8aa9026a.png",
     "index.html": "/Wigwonderland/index.html",
-    "main.780f627d.css.map": "/Wigwonderland/static/css/main.780f627d.css.map",
-    "main.02356d6f.js.map": "/Wigwonderland/static/js/main.02356d6f.js.map"
+    "static/media/slick.svg": "/Wigwonderland/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Wigwonderland/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Wigwonderland/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Wigwonderland/static/media/slick.295183786cd8a1389865.woff",
+    "main.f7a4ad12.css.map": "/Wigwonderland/static/css/main.f7a4ad12.css.map",
+    "main.bd783794.js.map": "/Wigwonderland/static/js/main.bd783794.js.map"
   },
   "entrypoints": [
-    "static/css/main.780f627d.css",
-    "static/js/main.02356d6f.js"
+    "static/css/main.f7a4ad12.css",
+    "static/js/main.bd783794.js"
   ]
 }

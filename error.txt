@@ -6,6 +6,10 @@
       .Homesubcontainer .Home-sub .container {
         order: 1; /* Display at the top */
       }
-<li className="cart">
-                  <FontAwesomeIcon icon={faShoppingCart} />
-                </li>
+background: none;
+        border: none;
+        vertical-align: inherit;
+        cursor: pointer;
+        font-size: 20px;
+        list-style: none;
+        margin: 0;
